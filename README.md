@@ -1,2 +1,2 @@
 # Study
-Здесь будут учебные проекты из этого гитаhttps://github.com/miguelgazela/Projects
+Здесь будут учебные проекты из этого гита https://github.com/miguelgazela/Projects
