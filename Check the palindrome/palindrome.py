@@ -1,7 +1,7 @@
-s = str(input("Enter the string to check the palindrome"))
-s = s.replace(' ', '')
-palindrome = s[::-1]
-if s in palindrome:
-    print("Yes, it is a palindrome")
-else:
-    print("No, it is not a palindrome")
+def IsPalindrome(string):
+    string = string.replace(' ', '')
+    string_palindrome = string[::-1]
+    if string in string_palindrome:
+        print("Yes, it is a palindrome")
+    else:
+        print("No, it is not a palindrome")
