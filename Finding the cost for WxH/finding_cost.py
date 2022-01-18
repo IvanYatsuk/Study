@@ -1,5 +1,4 @@
-w = int(input("Enter the Width (m)"))
-h = int(input("Enter the Height (m)"))
-cost = int(input("Enter the cost for 1 tile"))
-S = w * h
-print("General cost:", S * cost)
+def tiles_cost(width, height, cost):
+    S = width * height
+    general_cost = S * cost
+    return general_cost
